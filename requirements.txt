@@ -18,9 +18,9 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
 narwhals==1.31.0
-numpy==1.24.4
+numpy==1.23.5
 packaging==24.2
-pandas==2.0.3
+pandas==1.5.3
 pillow==10.4.0
 pkgutil_resolve_name==1.3.10
 protobuf==5.29.3
@@ -33,7 +33,7 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.20.1
-scikit-learn==1.3.2
+scikit-learn==1.2.2
 scipy==1.10.1
 six==1.17.0
 smmap==5.0.2
@@ -46,5 +46,5 @@ typing_extensions==4.12.2
 tzdata==2025.1
 urllib3==2.2.3
 watchdog==4.0.2
-xgboost==2.1.4
+xgboost==1.7.3
 zipp==3.20.2
